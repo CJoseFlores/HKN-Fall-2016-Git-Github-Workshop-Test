@@ -1,0 +1,5 @@
+PLEASE IGNORE THIS FILE.txt
+*.tmp
+
+#Comments can be entered in here using the "#" Symbol.
+#Unlike git bash, files and directories that use spaces DO NOT NEED QUOTES, infact DO NOT INCLUDE QUOTES.
