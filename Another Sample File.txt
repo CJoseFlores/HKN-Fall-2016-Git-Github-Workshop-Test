@@ -1,2 +1,2 @@
 Another Sample Sentance.
-This is the original line.
+This is different from what master has.
